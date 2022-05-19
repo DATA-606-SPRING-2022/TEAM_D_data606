@@ -8,7 +8,7 @@ By using Streamlit components, we created Buttons, Sliders, Text box, Activities
 
 <h3>STEPS INVOLVED :</h3>
 
-1. Created Model’s
+1. Created Models
 2. Pickled and saved the models. 
 3. Set up a streamlit instance on our local machines.
 4. Leveraged “Session” to unwrap the model using “Model unwrap”.
