@@ -23,11 +23,16 @@ By using Streamlit components, we created Buttons, Sliders, Text box, Activities
 * The web page indicates if the News is falsified or not, depending on the user input. 
 
 Check out our Sample UI: 
+
 ![Sample UI](https://user-images.githubusercontent.com/98927072/169366844-1cb33902-3509-48a0-ad9a-0f971fb9eb5d.jpeg)
 
 CHeck out what our App displays when the News is Real: 
+
 ![realnews screenshot](https://user-images.githubusercontent.com/98927072/169366904-1d885c14-b9d0-4e68-9ce1-be6cd9b89935.jpeg)
 
 Check out what our App displays when the News is Fake:
+
 ![fakenews screenshot](https://user-images.githubusercontent.com/98927072/169366972-0f401096-e6db-4998-b9ce-2d6baf5d9322.jpeg)
+
+Thank you!
 
