@@ -112,13 +112,12 @@ We became acquainted as mutual friends while assisting one of our mutual friends
  
  ![image](https://user-images.githubusercontent.com/98927072/169607366-bd6e1281-c219-447f-9483-6e116978cf84.png)
    
-  Bu looking at the above plot, we can say that the data is clean, having No Null values. The data is Normally Distributed, having no outliers
+  By looking at the above plot, we can say that the data is clean, having No Null values. The data is Normally Distributed, having no outliers
    
-![image](https://user-images.githubusercontent.com/98927072/169607487-501772c1-07a3-457b-92b9-0406eec15c0e.png)
-
-
-    
-  
-
+  ![image](https://user-images.githubusercontent.com/98927072/169608291-0dac673d-f01d-4309-955b-f72958c1db78.png)
    
- 
+   By looking at the above countplot, we can say that the data us clearly balanced. 
+   
+   ![image](https://user-images.githubusercontent.com/98927072/169608434-40eff314-2f6e-4552-b6a8-2fddb14340a6.png)
+
+   By looking at the plot above, we conclude that there are topics in the subject column that are different from both the categories. 
