@@ -3,7 +3,7 @@
   <h3> By Srikeerthi Upperla and Sushruth DT </h3>
 
 
-_**PROJECT IDEA : **_
+<u>PROJECT IDEA : <u>
 
 Fake news on social media and other forms of media is widespread, and it is a source of serious concern because it has the potential to cause significant social and national harm, as well as have debilitating effects on individuals and communities. It has long been recognized that the authenticity of information is a problem that affects businesses and society in general, and that this is true for both printed and digital media. It is reasonable to assume that the global economy bears a cost of at least $78 billion per year from a growing number of small costs associated with fake news and larger incidents. Fake news' dangers and costs will only increase as technology improves, despite the best efforts of law enforcement.
   
