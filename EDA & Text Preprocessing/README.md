@@ -103,4 +103,22 @@ We became acquainted as mutual friends while assisting one of our mutual friends
   
  <h1> EXPLORATORY DATA ANALYSIS <h1>
    
+ <h3> Insights from Data <h3>
+   
+ Checking distribution of Data: 
+   
+ ![image](https://user-images.githubusercontent.com/98927072/169607093-c6dbfafb-6fdf-4bad-a605-28d5b22a4740.png)
+   
+ 
+ ![image](https://user-images.githubusercontent.com/98927072/169607366-bd6e1281-c219-447f-9483-6e116978cf84.png)
+   
+  Bu looking at the above plot, we can say that the data is clean, having No Null values. The data is Normally Distributed, having no outliers
+   
+![image](https://user-images.githubusercontent.com/98927072/169607487-501772c1-07a3-457b-92b9-0406eec15c0e.png)
+
+
+    
+  
+
+   
  
