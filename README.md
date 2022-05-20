@@ -24,7 +24,8 @@ Personally, I've been a victim of fake news, particularly in the area of job rac
 
 
 
-**3.	Why is this important?**_
+
+_**3.	Why is this important?**
 
 ![image](https://user-images.githubusercontent.com/98927072/153283392-e9994172-1419-4541-9dc6-e5da6ef6f510.png)
 
@@ -45,7 +46,7 @@ It is an important skill to be able to distinguish between accurate news and fak
 
 •	**Spot if next submission of author is fake or**
 
-•	**Extensive EDA of news**
+•	**Plan of Action : Extensive EDA of news**
 
 •	**Suspicious titles that can be tagged to fake** 
 
@@ -107,7 +108,7 @@ Sri Keerthi - Team Captain
 
 •	 Data Cleanup
 
-•	 Implementing NLP algorithms
+•	 Implementing Machine Learning Algorithms
 
 
 Sushruth - Team Member
