@@ -25,7 +25,7 @@ Personally, I've been a victim of fake news, particularly in the area of job rac
 
 
 
-_**3.	Why is this important?**
+_**3.	Why is this important?**_
 
 ![image](https://user-images.githubusercontent.com/98927072/153283392-e9994172-1419-4541-9dc6-e5da6ef6f510.png)
 
@@ -40,6 +40,8 @@ The World Economic Forum ranks the spread of misinformation and fake news, as am
    o	**Real news can help** If you wish to invest in a company, you should study factual articles about it. A voter should research a candidate thoroughly before casting a ballot to ensure that the candidate best represents his or her views. Real news may help you generate money and make the world a better place.
 
 
+
+
 _**4.	What questions do you have in mind and would like to answer?**_
 
 It is an important skill to be able to distinguish between accurate news and fake news, and one that you will use for the rest of your life. Our research investigates various textual properties that can be used to distinguish between fabricated and authentic content. In order to take advantage of these characteristics, we train a combination of different machine learning algorithms using various ensemble methods, and then evaluate their performance on real-world datasets. It is our goal to distinguish between fake and true news by developing powerful classification models for the news data we have gathered so far. 
@@ -51,9 +53,13 @@ It is an important skill to be able to distinguish between accurate news and fak
 •	**Suspicious titles that can be tagged to fake** 
 
 
+
+
 _**5.	What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?**_
 
 Here the unit of analysis is : Author / News organizations. 
+
+
 
 
 _**6.	What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?**_
@@ -66,6 +72,8 @@ _Title and Text:_
 
 Does all the fraudulent news have repetitive jargon? Is there a pattern? 
 What keywords are highly used in fake news?
+
+
 
 
 _**7.	What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?**__
@@ -89,13 +97,19 @@ The sensationalism of not-so-accurate but eye-catching and intriguing headlines 
 
 •	KNN
 
+
+
 _**8.	How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?**_
 
 As the project aims to classify and predict Fake news, I would be considering this as more as a classification problem and thus would work on generating the Classification report that is used to measure the quality of predictions from a classification algorithm—the precision, AU- ROC, recall, F1 Score, and our trained classification model support. We plan to use visualization techniques to compare the performance and better understand each model's metrics.
 
+
+
 _**9.	What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practical applications, etc)?**__
 
 This project aims to develop a solution that users can utilize to detect and filter out news containing false and misleading information. The plan is to carefully select features to identify fake posts/news.
+
+
 
 _**10.	Team Responsibility**_
 
