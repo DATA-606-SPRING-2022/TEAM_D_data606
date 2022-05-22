@@ -139,13 +139,13 @@ Aside from numerical data, text data is widely available and is utilized to asse
 6. Stemming
 7. Lemmatization
 
-<h3> Insights after Preprocessing the Text <h3>
+<h3> Insights after Preprocessing the Text </h3>
   
-  ![image](https://user-images.githubusercontent.com/98927072/169616183-dff6d256-74a1-4efd-ac39-92afe4109081.png)
+![image](https://user-images.githubusercontent.com/98927072/169616183-dff6d256-74a1-4efd-ac39-92afe4109081.png)
   
 The above word cloud is plotted for the column "Title" from the dataset and it can be seen that words like Donald, Trump, Embarrassing, Internet, Pope, Francis etc are highly repeated. 
   
-  ![image](https://user-images.githubusercontent.com/98927072/169616432-5872c08a-7710-4b16-91c9-ee5935e79750.png)
+ ![image](https://user-images.githubusercontent.com/98927072/169616432-5872c08a-7710-4b16-91c9-ee5935e79750.png)
   
 The above word cloud is plotted for the column "Text" from the dataset and it can be seen that words like Reuters, Christmas, Trump, Devin, Annual etc are highly repeated.
   
