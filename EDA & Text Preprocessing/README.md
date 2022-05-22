@@ -114,19 +114,19 @@ We became acquainted as mutual friends while assisting one of our mutual friends
  
  ![image](https://user-images.githubusercontent.com/98927072/169607366-bd6e1281-c219-447f-9483-6e116978cf84.png)
    
-  By looking at the above plot, we can say that the data is clean, having No Null values. The data is Normally Distributed, having no outliers
+ By looking at the above plot, we can say that the data is clean, having No Null values. The data is Normally Distributed, having no outliers
    
   ![image](https://user-images.githubusercontent.com/98927072/169608291-0dac673d-f01d-4309-955b-f72958c1db78.png)
    
-   By looking at the above countplot, we can say that the data us clearly balanced. 
+ By looking at the above countplot, we can say that the data us clearly balanced. 
    
    ![image](https://user-images.githubusercontent.com/98927072/169608434-40eff314-2f6e-4552-b6a8-2fddb14340a6.png)
 
-   By looking at the plot above, we conclude that there are topics in the subject column that are different from both the categories. 
+By looking at the plot above, we conclude that there are topics in the subject column that are different from both the categories. 
    
     <h1> Text Preprocessing </h1>
       
- Aside from numerical data, text data is widely available and is utilized to assess and solve business problems. However, before using the data for analysis and prediction, it must be processed. Text preprocessing is used to prepare text data for model creation. SIince our dataset is mostly textual data containing columns like "Text" ,  "Title" and "Subject", the preprocessing steaps we have implemented are as follows: 
+Aside from numerical data, text data is widely available and is utilized to assess and solve business problems. However, before using the data for analysis and prediction, it must be processed. Text preprocessing is used to prepare text data for model creation. SIince our dataset is mostly textual data containing columns like "Text" ,  "Title" and "Subject", the preprocessing steaps we have implemented are as follows: 
       
  Some of the preprocessing steps are:
 
@@ -142,26 +142,26 @@ We became acquainted as mutual friends while assisting one of our mutual friends
   
   ![image](https://user-images.githubusercontent.com/98927072/169616183-dff6d256-74a1-4efd-ac39-92afe4109081.png)
   
-  The above word cloud is plotted for the column "Title" from the dataset and it can be seen that words like Donald, Trump, Embarrassing, Internet, Pope, Francis etc are highly repeated. 
+ The above word cloud is plotted for the column "Title" from the dataset and it can be seen that words like Donald, Trump, Embarrassing, Internet, Pope, Francis etc are highly repeated. 
   
   ![image](https://user-images.githubusercontent.com/98927072/169616432-5872c08a-7710-4b16-91c9-ee5935e79750.png)
   
-    The above word cloud is plotted for the column "Text" from the dataset and it can be seen that words like Reuters, Christmas, Trump, Devin, Annual etc are highly repeated.
+The above word cloud is plotted for the column "Text" from the dataset and it can be seen that words like Reuters, Christmas, Trump, Devin, Annual etc are highly repeated.
   
 ![image](https://user-images.githubusercontent.com/98927072/169616980-e50bfa5c-3d00-473c-9245-eafaadff470b.png)
 
-  The above plot states the average word length in each text. 
+The above plot states the average word length in each text. 
    
  ![image](https://user-images.githubusercontent.com/98927072/169617900-967b095e-d3e7-4621-b6c7-46c0dc9b73ba.png)
 
-   The distribution of both seems to be a bit different. 2500 characters in text is the most common in original text category while around 5000 characters in text are most common in fake text category.
+The distribution of both seems to be a bit different. 2500 characters in text is the most common in original text category while around 5000 characters in text are most common in fake text category.
    
-   Furthermore, We have also plotted some n-grams, take a peek at them. 
+Furthermore, We have also plotted some n-grams, take a peek at them. 
    
-   ![image](https://user-images.githubusercontent.com/98927072/169618009-f6ab4bae-3a42-40a3-a7d8-b0aba29de1d5.png)
+![image](https://user-images.githubusercontent.com/98927072/169618009-f6ab4bae-3a42-40a3-a7d8-b0aba29de1d5.png)
 
    
-   ![image](https://user-images.githubusercontent.com/98927072/169618536-6671df16-be7c-4a43-bb1a-f74f0276299a.png)
+![image](https://user-images.githubusercontent.com/98927072/169618536-6671df16-be7c-4a43-bb1a-f74f0276299a.png)
    
 ![image](https://user-images.githubusercontent.com/98927072/169618558-2e0a23ea-5e3f-42fb-8673-aec74c217bf7.png)
    
