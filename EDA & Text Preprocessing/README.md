@@ -22,13 +22,13 @@ _**THIS IS IMPORTANT TO US BECAUSE:**_
 
 The World Economic Forum ranks the spread of misinformation and fake news, as among the world’s top global risks. 
  
-   o	**You deserve the truth : ** You are educated enough to make your own decisions based on the facts. 
+   o	**You deserve the truth :  You are educated enough to make your own decisions based on the facts. 
 
-   o	**False news erodes credibility : ** People will be less inclined to accept you if you base your arguments on incorrect data.
+   o	**False news erodes credibility : People will be less inclined to accept you if you base your arguments on incorrect data.
 
-   o	**Fake news can harm you and others : ** Mercola.com and NaturalNews.com, for example, help promote misconceptions that HIV and AIDS are unrelated, or vaccines cause autism. These sites are dangerous and heavily trafficked.
+   o	**Fake news can harm you and others :  Mercola.com and NaturalNews.com, for example, help promote misconceptions that HIV and AIDS are unrelated, or vaccines cause autism. These sites are dangerous and heavily trafficked.
 
-   o	**Real news can help : ** If you wish to invest in a company, you should study factual articles about it. A voter should research a candidate thoroughly before casting a ballot to ensure that the candidate best represents his or her views. Real news may help you generate money and make the world a better place.
+   o	**Real news can help :  If you wish to invest in a company, you should study factual articles about it. A voter should research a candidate thoroughly before casting a ballot to ensure that the candidate best represents his or her views. Real news may help you generate money and make the world a better place.
 
 
 
