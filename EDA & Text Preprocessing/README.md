@@ -101,7 +101,7 @@ Sushruth - Team Member
 _**REASON FOR PAIRING: **_
 We became acquainted as mutual friends while assisting one of our mutual friends with her thesis psychology project on misinformation, which brought us together. And we were talking about how much it has immensely affected our personal lives as a result of this. We later discovered that we were enrolled in your Data 606 capstone course. Later, we came to the conclusion that we should collaborate and work on fake news detection.
   
- <h1> EXPLORATORY DATA ANALYSIS </h1>
+ <h1> EXPLORATORY DATA ANALYSIS <h1>
    
  In the exploratory Data Analysis phase, we have performed some initial investigations on the dataset to discover patterns and uncover hidden insights. Our aim was to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations. CHeck our our plots below. 
    
@@ -124,7 +124,7 @@ We became acquainted as mutual friends while assisting one of our mutual friends
 
 By looking at the plot above, we conclude that there are topics in the subject column that are different from both the categories. 
    
-    <h1> Text Preprocessing </h1>
+    <h1> Text Preprocessing <h1>
       
 Aside from numerical data, text data is widely available and is utilized to assess and solve business problems. However, before using the data for analysis and prediction, it must be processed. Text preprocessing is used to prepare text data for model creation. SIince our dataset is mostly textual data containing columns like "Text" ,  "Title" and "Subject", the preprocessing steaps we have implemented are as follows: 
       
@@ -138,11 +138,11 @@ Aside from numerical data, text data is widely available and is utilized to asse
 6. Stemming
 7. Lemmatization
 
-<h3> Insights after Preprocessing the Text </h3>
+<h3> Insights after Preprocessing the Text <h3>
   
   ![image](https://user-images.githubusercontent.com/98927072/169616183-dff6d256-74a1-4efd-ac39-92afe4109081.png)
   
- The above word cloud is plotted for the column "Title" from the dataset and it can be seen that words like Donald, Trump, Embarrassing, Internet, Pope, Francis etc are highly repeated. 
+The above word cloud is plotted for the column "Title" from the dataset and it can be seen that words like Donald, Trump, Embarrassing, Internet, Pope, Francis etc are highly repeated. 
   
   ![image](https://user-images.githubusercontent.com/98927072/169616432-5872c08a-7710-4b16-91c9-ee5935e79750.png)
   
