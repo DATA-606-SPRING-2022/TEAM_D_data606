@@ -101,12 +101,12 @@ Sushruth - Team Member
 _**REASON FOR PAIRING: **_
 We became acquainted as mutual friends while assisting one of our mutual friends with her thesis psychology project on misinformation, which brought us together. And we were talking about how much it has immensely affected our personal lives as a result of this. We later discovered that we were enrolled in your Data 606 capstone course. Later, we came to the conclusion that we should collaborate and work on fake news detection.
   
-<h1> EXPLORATORY DATA ANALYSIS <h1>
+<h1> EXPLORATORY DATA ANALYSIS </h1>
    
  In the exploratory Data Analysis phase, we have performed some initial investigations on the dataset to discover patterns and uncover hidden insights. Our aim was to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations. CHeck our our plots below. 
    
 
-<h3> Insights from Data <h3>
+<h3> Insights from Data </h3>
    
  Checking distribution of Data: 
    
