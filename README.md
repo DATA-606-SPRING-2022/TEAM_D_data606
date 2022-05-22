@@ -12,15 +12,13 @@ Author : Sushrutha DT and Srikeerthi Upperla
 
 Please Find the 'Documentation' folder for deeper insights of each phase. 
 
-EDA & Text Preprocessing Phase : 
+*Link to the Initial Video Presentation:*  https://youtu.be/7wq8NAB0-cI 
 
-Machine Learning Phase : 
 
-Deployment Phase (Streamlit) : 
+*Link to the Final Video Presentation:* https://youtu.be/sThOhTYYSK0
 
-Final Project Presentation: 
 
-Project Streamlit Demo: 
+*Steamlit Web App:*  https://youtu.be/tIAiCyhWOWc
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
