@@ -28,9 +28,10 @@ After training the models with Train data, we tried to quantify the quality of o
 3. Is my model under-fitting or over-fitting?
 4. Will a larger training set improve my model’s performance?
 5. Is my model under-fitting or over-fitting?
+
+From our analysis, we found that Gradient Boost is out performing all the other algorithms and this makes sense as Gradient boosting trees can be more accurate because we train them to correct each other's errors, they're capable of capturing complex patterns in the data. However, if the data are noisy, the boosted trees may overfit and start modeling the noise.
  
-To improve the model performance, we plan to : 
+For future scope, To improve the model performance, we plan to : 
 
 1. Train the models on a large dataset.
 2. Tweak hyperparameters of the model.
--
