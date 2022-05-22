@@ -125,7 +125,7 @@ We became acquainted as mutual friends while assisting one of our mutual friends
 
 By looking at the plot above, we conclude that there are topics in the subject column that are different from both the categories. 
    
-    <h1> Text Preprocessing <h1>
+ <h3> Text Preprocessing </h3>
       
 Aside from numerical data, text data is widely available and is utilized to assess and solve business problems. However, before using the data for analysis and prediction, it must be processed. Text preprocessing is used to prepare text data for model creation. SIince our dataset is mostly textual data containing columns like "Text" ,  "Title" and "Subject", the preprocessing steaps we have implemented are as follows: 
       
